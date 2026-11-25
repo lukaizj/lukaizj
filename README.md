@@ -1,52 +1,55 @@
-### Hi, I'm Lukai 👋
-
-> **试图用 AI 做点什么** · Building practical AI workflows, agent skills & 3D creative tools.
-
----
-
-### What I'm Building
-
-#### Agent Skills & Content Automation
-- **[gzh-article-pipeline](https://github.com/lukaizj/gzh-article-pipeline)** — End-to-end WeChat Official Account AI pipeline: high-eCPM/CTR topic gating, `21:9` covers, 9-point offline QA & draft push / 微信公众号创作发布闭环 Skill
-- **[mbti](https://github.com/lukaizj/mbti)** — Give your AI coding agent 16-type MBTI work personalities & behavior modes
-- **[moli-wechat-agent](https://github.com/lukaizj/moli-wechat-agent)** — Web-signal research, humanized drafting & WeChat draft automation agent (墨流)
-
-#### Vertical AI Applications
-- **[SmartBid-Pro](https://github.com/lukaizj/SmartBid-Pro)** — Intelligent tender & bidding desktop workbench with knowledge base, dedup & rule checking (智标通)
-- **[bigdata-sre-platform](https://github.com/lukaizj/bigdata-sre-platform)** — AI-assisted big data SRE & intelligent operations platform
-- **[dify-mcp-server](https://github.com/lukaizj/dify-mcp-server)** — Multi-key MCP server bridging Dify ChatFlow, Workflow & Agent apps
-
-#### 3D, Blender & Creative Tooling
-- **[car-mod-saas](https://github.com/lukaizj/car-mod-saas)** — 3D car customization SaaS built with Next.js, React Three Fiber & Blender/GLB
-- **[codex-3d-pet](https://github.com/lukaizj/codex-3d-pet)** — Local-first 3D VRM desktop pet for Codex Desktop
-- **[ai-blender-web-showcase](https://github.com/lukaizj/ai-blender-web-showcase)** — Codex skill for Blender MCP + Three.js interactive 3D showcase webpages
-- **[build-pet-keychain](https://github.com/lukaizj/build-pet-keychain)** — Skill for generating editable 2.5D Blender pet keychain models from reference photos
-- **[showcase-forge](https://github.com/lukaizj/showcase-forge)** — CAD-first workflow for turning product ideas into showcase-ready demos
-
----
-
-### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/AI%20Agents-MCP%20%26%20Skills-07C160?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <img src="assets/banner.svg" alt="Lukai - 试图用 AI 做点什么" width="100%" />
 </p>
 
----
+### Currently Building
 
-### Connect
+<table>
+  <tr>
+    <th align="left" width="33%">🤖 Agent Skills &amp; Flows</th>
+    <th align="left" width="33%">⚡ Vertical AI Apps</th>
+    <th align="left" width="34%">🧊 3D &amp; Creative Tools</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b><a href="https://github.com/lukaizj/gzh-article-pipeline">gzh-article-pipeline</a></b><br><sub>公众号选题、封面、质检到草稿闭环 Skill</sub></p>
+      <p><b><a href="https://github.com/lukaizj/mbti">mbti</a></b><br><sub>为 AI Agent 注入 16 型工作人格模式</sub></p>
+      <p><b><a href="https://github.com/lukaizj/moli-wechat-agent">moli-wechat-agent</a></b><br><sub>墨流：联网选题与公众号排版 Agent</sub></p>
+    </td>
+    <td valign="top">
+      <p><b><a href="https://github.com/lukaizj/SmartBid-Pro">SmartBid-Pro</a></b><br><sub>智标通：标书生成与废标项规则桌面台</sub></p>
+      <p><b><a href="https://github.com/lukaizj/bigdata-sre-platform">bigdata-sre-platform</a></b><br><sub>基于 AI 的大数据智能运维助手平台</sub></p>
+      <p><b><a href="https://github.com/lukaizj/dify-mcp-server">dify-mcp-server</a></b><br><sub>支持多 Key 与热加载的 Dify MCP 服务</sub></p>
+    </td>
+    <td valign="top">
+      <p><b><a href="https://github.com/lukaizj/car-mod-saas">car-mod-saas</a></b><br><sub>Next.js + Three.js + Blender 3D 改装台</sub></p>
+      <p><b><a href="https://github.com/lukaizj/codex-3d-pet">codex-3d-pet</a></b><br><sub>本地运行的 VRM 3D 桌面宠物</sub></p>
+      <p><b><a href="https://github.com/lukaizj/ai-blender-web-showcase">ai-blender-web-showcase</a></b><br><sub>Blender MCP × Three.js 3D 展台生成器</sub></p>
+    </td>
+  </tr>
+</table>
 
-- WeChat Official Account: **奇点造物所**（分享开源实战、Agent 工作流与实用 AI 工具）
-
-<details>
-<summary>微信搜一搜「奇点造物所」</summary>
-
-<br>
-<img src="https://raw.githubusercontent.com/lukaizj/gzh-article-pipeline/main/assets/mp-qidian-card.png" width="280" alt="微信搜一搜：奇点造物所" />
-
-</details>
+<table>
+  <tr>
+    <th align="left" width="52%">🧰 Tech Stack</th>
+    <th align="left" width="48%">📡 Follow &amp; Connect</th>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+        <img src="https://img.shields.io/badge/Agent%20Skills-MCP-07C160?style=flat-square" alt="Agent Skills & MCP" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <sub>Local-first AI tooling · Agent workflows · 3D interactive web</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/lukaizj/gzh-article-pipeline/main/assets/mp-qidian-card.png" width="240" alt="微信搜一搜：奇点造物所" /><br>
+      <sub>分享开源实战、Agent 工作流与实用 AI 工具</sub>
+    </td>
+  </tr>
+</table>
